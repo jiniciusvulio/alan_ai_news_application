@@ -16,7 +16,7 @@ const App = () => {
           setNewsArticles(articles);
         }
       }
-    })
+    });
   }, []);
 
   return(
